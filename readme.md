@@ -48,8 +48,8 @@ To clone and run this project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/music-genre-classification.git
-   cd music-genre-classification
+   git clone https://github.com/RishiiShah/Music-Genre-Detection.git
+   cd Music-Genre-Detection
    ```
 
 2. **Install Dependencies**:
