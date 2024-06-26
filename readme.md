@@ -59,7 +59,7 @@ To clone and run this project locally, follow these steps:
 
 3. **Run the Project**:
    ```bash
-   streamlit run app.py
+   streamlit run GenreDetection.py
    ```
    This command starts the Streamlit server and opens the application in your default web browser.
 
